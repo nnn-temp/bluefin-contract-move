@@ -33,4 +33,4 @@ BluefinSpot = { git = "https://github.com/michalstefanow/bluefin-contract-move.g
 
 ## Contact
 
-- Telegram: [@mooneagle](https://t.me/mooneagle)
+- Telegram: [@mooneagle](https://t.me/@mooneagle1_1)
