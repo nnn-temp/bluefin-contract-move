@@ -1,6 +1,6 @@
 # 🚀 BRC-2.0 (BRC20-programmable-module) DEMO
 
-This is a demo version of the Bitcoin BRC20 Programmable Module (BRC2.0 protocol), showcasing the full workflow — including smart contract deployment and interaction.
+This is a demo version of the Bitcoin BRC20 Programmable Module (BRC2.0 protocol), showcasing the full workflow — including smart contract deployment and interaction & brc2.0 tokne deploy, mint and transfer.
 
 ## 🏗️ Project Structure
 
@@ -27,7 +27,7 @@ code/
 
 ## 🎬 Preview
 
-https://github.com/user-attachments/assets/c04e748e-354d-4e0e-9241-093694b277d6
+https://github.com/user-attachments/assets/90f9eb22-d713-408f-b4d5-c7e7a0cc4097
 
 
 ## 🚨 Contact Me
