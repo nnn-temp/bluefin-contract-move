@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/90f9eb22-d713-408f-b4d5-c7e7a0cc4097
 
 ## 🚨 Contact Me
 
-If you wanna build more complex and useful DApp with it or any question, contact to developer: [@MoonSat](https://t.me/mylord1_1)
+If you wanna build more complex and useful DApp with it or any question, contact to developer: [@MoonSat](https://t.me/mooneagle1_1)
 
 
 ## Documentation about brc2.0
